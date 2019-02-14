@@ -9,19 +9,19 @@ Class: IMK - A
 
 ## Outline
 - [Example of Appliances / Web Features with Bad UI](#example-of-appliances--web-features-with-bad-ui)
-    - [Outline](#outline)
-    - [1. Zippyshare.com](#1-zippysharecom)
-        - [1.2 Bad UI](#12-bad-ui)
-        - [1.3 Suggestions](#13-suggestions)
-        - [1.4 Demonstration](#14-demonstration)
-    - [2. LINGsCARs.com](#2-lingscarscom)
-        - [2.2 Bad UI](#22-bad-ui)
-        - [2.3 Suggestions](#23-suggestions)
-        - [2.4 Demonstration](#24-demonstration)
-    - [3. Lamp Switch](#3-lamp-switch)
-        - [3.2 Bad UI](#32-bad-ui)
-        - [3.3 Suggestions](#33-suggestions)
-        - [3.4 Demonstration](#34-demonstration)
+  - [Outline](#outline)
+  - [1. Zippyshare.com](#1-zippysharecom)
+    - [1.2 Bad UI](#12-bad-ui)
+    - [1.3 Suggestions](#13-suggestions)
+    - [1.4 Demonstration](#14-demonstration)
+  - [2. LINGsCARs.com](#2-lingscarscom)
+    - [2.2 Bad UI](#22-bad-ui)
+    - [2.3 Suggestions](#23-suggestions)
+    - [2.4 Demonstration](#24-demonstration)
+  - [3. Lamp Switch](#3-lamp-switch)
+    - [3.2 Bad UI](#32-bad-ui)
+    - [3.3 Suggestions](#33-suggestions)
+    - [3.4 Demonstration](#34-demonstration)
 
 
 ## 1. Zippyshare.com
@@ -42,8 +42,8 @@ Zippyshare is a legitimate file hosting site which is designed to allow users sh
 - **Reduce on Click Adversitement/Redirection** on some field that important by user to do.
 
 ### 1.4 Demonstration
-Here's demonstration of **Too many Adversitement and Redirection to new tab** on *Download and Login Feature*.
-[LINK]
+Here's demonstration of **No Register Option** on *Download and Login Feature*.
+[LINK](video/video-zippyshare.mp4)
 
 
 ## 2. LINGsCARs.com
@@ -75,8 +75,7 @@ at my opinion, the icon of *Metallic Paint* or *Flat Paint*, doesn't clearly con
 - **Make Responsive Feature** and read-able element,by make your website responsive, buyer/customer can relate and can stay more time in your website to choosing leasing cars.
   
 ### 2.4 Demonstration
-Here's demonstration of **Not Responsive Website** on *this Feature*
-[LINK]
+Here's demonstration of **Not Responsive Website** [LINK](video/video-lingscars.mp4)
 
 ## 3. Lamp Switch
 Lamp Switch is an objects that we often to use in our daily lives. In general, lamp switch have shape like image below.
@@ -91,4 +90,4 @@ Lamp Switch is an objects that we often to use in our daily lives. In general, l
 ![lamp-switch-suggestions](img/lamp-switch-suggestion.jpg)
 
 ### 3.4 Demonstration
-Here's demonstration of **Lamp Switch** on [LINK]
+Here's demonstration of **Lamp Switch** on [LINK](video/video-saklar.mp4)
